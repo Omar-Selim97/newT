@@ -1,0 +1,9 @@
+.backg {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    overflow: hidden;
+    min-height: 850px;
+    background-image: url(pag.jpg);
+    ;
+}
