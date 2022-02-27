@@ -16,11 +16,11 @@ function Navbar({location}:any) {
    
     menu={[
        
-        {text: 'Home', link: '/entery'}, 
+        {text: 'Home', link: '/'}, 
 
         // menu item with submenu
-        {text: 'Pages', link: '/page', submenu: [ 
-            {text: 'Easy', link: '/'},
+        {text: 'Pages', link: '/entery', submenu: [ 
+            {text: 'Easy', link: '/easy'},
             {text: 'category', link: '/category'}
         ]}
     ]}
